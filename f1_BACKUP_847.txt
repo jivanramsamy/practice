@@ -5,6 +5,5 @@ three
 five
 =======
 four
-seven
 
 >>>>>>> 4935a93b28906090b8589fe33f3894a92fbefce5
