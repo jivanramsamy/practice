@@ -1,9 +1,6 @@
 one
 two
 three
-<<<<<<< HEAD
 five
-=======
 four
-
->>>>>>> 4935a93b28906090b8589fe33f3894a92fbefce5
+six
